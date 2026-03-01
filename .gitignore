@@ -1,0 +1,9 @@
+# Secrets — never commit these
+.env
+
+# Local data
+thoughtstream-data/
+*.log
+
+# macOS
+.DS_Store
